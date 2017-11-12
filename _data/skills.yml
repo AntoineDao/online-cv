@@ -1,9 +1,9 @@
 - skill:
-    name: Azure
-    level: 50
+  name: Azure
+  level: 50
 - skill:
-    name: Grasshopper
-    level: 100
+  name: Grasshopper
+  level: 100
 - skill:
-    name: Python
-    level: 75
+  name: Python
+  level: 75
