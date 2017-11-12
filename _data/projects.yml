@@ -1,1 +1,8 @@
-"- project:\n    title: Pancakes\n    link: www.google.com\n    tagline: absolutely love open source pan cakes\n- project:\n    title: crepes\n    link: www.crepes.com\n    tagline: also love open source crepes though"
+- project:
+    title: Pancakes
+    link: www.google.com
+    tagline: absolutely love open source pan cakes
+- project:
+    title: crepes
+    link: www.crepes.com
+    tagline: also love open source crepes though
