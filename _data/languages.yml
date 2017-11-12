@@ -1,9 +1,1 @@
-- language:
-  idiom: English
-  level: Native
-- language:
-  idiom: French
-  level: Professional
-- language:
-  idiom: Spanish
-  level: Professional
+"- language:\n    idiom: English\n    level: Native\n- language:\n    idiom: French\n    level: Native\n- language:\n    idiom: Spanish\n    level: Working"
