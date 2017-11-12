@@ -14,10 +14,7 @@ style: styles-6
 name: Antoine Dao
 tagline: Aspiring Cloud Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'A passionate and inquisitive engineer working to bring desktop based building design into cloud infrastructures. Strong experience using/customising open source physics simulation tools to perform large scale parametric studies. Seeking to join start up or established company to deliver valuable insights via data analytics and advanced data-driven methods.'
 
 #sidebar links
 email: antoinedao1@gmail.com
