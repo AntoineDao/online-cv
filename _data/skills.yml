@@ -1,9 +1,9 @@
 - skill:
   name: Azure
-  level: 0.5
+  level: 50%
 - skill:
   name: Grasshopper
-  level: 1
+  level: 100%
 - skill:
   name: Python
-  level: 0.75
+  level: 75%
