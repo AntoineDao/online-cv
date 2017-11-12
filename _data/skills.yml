@@ -1,9 +1,15 @@
 - skill:
-  name: Azure
-  level: 50%
-- skill:
-  name: Grasshopper
-  level: 100%
+  name: Grasshopper3D
+  level: 90%
 - skill:
   name: Python
   level: 75%
+- skill:
+  name: Daylight Modelling
+  level: 80%
+- skill:
+  name: Azure 
+  level: 50%
+- skill:
+  name: Web Stack
+  level: 40%
