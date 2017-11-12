@@ -1,1 +1,6 @@
-"- interest:\n    item: Coding\n- interest:\n    item: Jekyll\n- interest:\n    item: Pancakes"
+- interest:
+    item: Coding
+- interest:
+    item: Jekyll
+- interest:
+    item: Pancakes
