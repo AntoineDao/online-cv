@@ -1,10 +1,10 @@
 - experience:
-  role: Chief pancake maker
-  time: 2013-2015
-  company: PancaKings, Paris
-  details: I flipped pancakes real good.
-- experience:
-  role: Coder
+  role: Engineer
   time: 2015 - Present
-  company: CodeKings, London
-  details: I coded things.
+  company: BuroHappold Engineering
+  details: Working within the Sustainability and Physics team implementing advanced analytics and large scale simulation by leveraging cloud technologies in Azure. Main undertakings at the time of writing:<br><ul><li>Parametric Energy and Daylighting solution optmisiation</li><li>Github repository management to exchange Grasshopper files</li><li>IOT back end set up for environmental monitoring and Post Occupancy Evaluation</li></ul>
+- experience:
+  role: Research Assistant
+  time: 2013
+  company: University of Edinburgh
+  details: Researched the use of algae biomass to clean water and produce energy through anaerobic digestion. Produced a report on the availability of algae in Scotland and the sustinability of large-scale use of the resource as fuel.
