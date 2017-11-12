@@ -1,1 +1,9 @@
-"- language:\n    idiom: English\n    level: Native\n- language:\n    idiom: French\n    level: Native\n- language:\n    idiom: Spanish\n    level: Working"
+- language:
+    idiom: English
+    level: Native
+- language:
+    idiom: French
+    level: Native
+- language:
+    idiom: Spanish
+    level: Working
