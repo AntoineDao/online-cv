@@ -1,1 +1,9 @@
-"- skill:\n    name: Azure\n    level: 50\n- skill:\n    name: Grasshopper\n    level: 100\n- skill:\n    name: Python\n    level: 75"
+- skill:
+    name: Azure
+    level: 50
+- skill:
+    name: Grasshopper
+    level: 100
+- skill:
+    name: Python
+    level: 75
