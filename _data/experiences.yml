@@ -1,10 +1,10 @@
 - experience:
-    role: Chief pancake maker
-    time: 2013-2015
-    company: PancaKings, Paris
-    details: I flipped pancakes real good.
+  role: Chief pancake maker
+  time: 2013-2015
+  company: PancaKings, Paris
+  details: I flipped pancakes real good.
 - experience:
-    role: Coder
-    time: 2015 - Present
-    company: CodeKings, London
-    details: I coded things.
+  role: Coder
+  time: 2015 - Present
+  company: CodeKings, London
+  details: I coded things.
