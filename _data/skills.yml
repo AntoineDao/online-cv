@@ -2,9 +2,6 @@
   name: Grasshopper3D
   level: 90%
 - skill:
-  name: Python
-  level: 75%
-- skill:
   name: Daylight Modelling
   level: 80%
 - skill:
@@ -12,4 +9,16 @@
   level: 50%
 - skill:
   name: Web Stack
+  level: 40%
+- skill:
+  name: Python
+  level: 75%
+- skill:
+  name: Docker
+  level: 50%
+- skill:
+  name: Kubernetes
+  level: 25%
+- skill:
+  name: MEAN stack
   level: 40%
