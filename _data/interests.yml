@@ -9,4 +9,6 @@
 - interest:
   item: Blockchain
 - interest:
-  item: Raspberry Pi
+  item: IoT
+- interest:
+  item: Jupyter
