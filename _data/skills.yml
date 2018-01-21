@@ -8,9 +8,6 @@
   name: Azure 
   level: 50%
 - skill:
-  name: Web Stack
-  level: 40%
-- skill:
   name: Python
   level: 75%
 - skill:
