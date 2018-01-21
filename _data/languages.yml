@@ -23,9 +23,6 @@
   idiom: Linux Bash
   level: Working
 - language:
-  idiom: SQL
-  level: Working
-- language:
   idiom: C#
   level: Beginner
 - language:
