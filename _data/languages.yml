@@ -1,4 +1,7 @@
 - language:
+  idiom: 
+  level: For People
+- language:
   idiom: English
   level: Native
 - language:
@@ -9,7 +12,7 @@
   level: Working
 - language:
   idiom: 
-  level: 
+  level: For Computers
 - language:
   idiom: Python
   level: Native
