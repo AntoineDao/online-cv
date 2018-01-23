@@ -11,6 +11,9 @@
   name: Python
   level: 80%
 - skill:
+  name: NodeJS
+  level: 50%
+- skill:
   name: Azure 
   level: 50%
 - skill:
