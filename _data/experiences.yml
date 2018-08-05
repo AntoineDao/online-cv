@@ -1,8 +1,13 @@
 - experience:
-  role: Engineer
-  time: 2015 - Present
+  role: Software Engineer
+  time: 2018 - Present
+  company: Mallzee
+  details: Working at Mallzee maintaining and upgrading web scraping capabilities. This involves both writing web scrapers but also writing data processing pipelines to cleanly siphon data into the mobile app.
+- experience:
+  role: Building Physics Engineer
+  time: 2015 - 2018
   company: BuroHappold Engineering
-  details: Working within the Sustainability and Physics team implementing advanced analytics and large scale simulation by leveraging cloud technologies in Azure. Main undertakings at the time of writing:<br><ul><li>Parametric Energy and Daylighting solution optmisiation</li><li>Github repository management to exchange Grasshopper files</li><li>Building performance and road data automated analytics</li></ul>
+  details: Working within the Sustainability and Physics team implementing advanced analytics and large scale simulation by leveraging cloud technologies in Azure. Main undertakings at the time of writing:<br><ul><li>Parametric Energy and Daylighting solution optmisiation</li><li>Github repository management to exchange Grasshopper files</li><li>IOT back end set up for environmental monitoring and Post Occupancy Evaluation</li></ul>
 - experience:
   role: Research Assistant
   time: 2013
